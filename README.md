@@ -1,2 +1,2 @@
 # portfolio-backend
-backend of my portfolio
+### sanity backend for my portfolio website
